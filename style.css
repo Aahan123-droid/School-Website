@@ -1,0 +1,17 @@
+#video{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+.campus_life{
+    border: 1px solid grey ;
+}
+
+.campus_life img{
+width: 100%;
+}
+
+.campus_life h5 , .campus_life p{
+margin: 20px;
+}
